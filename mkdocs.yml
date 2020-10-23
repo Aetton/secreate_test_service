@@ -1,0 +1,8 @@
+site_name: FastAPI Tortoise
+nav:
+  - Get started: index.md
+theme:
+  name: 'material'
+markdown_extensions:
+  - admonition
+  - codehilite
